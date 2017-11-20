@@ -1,0 +1,12 @@
+{
+  "name": "hydrode",
+  "version": "0.0.0",
+  "description": "Hydrode",
+  "main": "app.js",
+  "author": {
+    "name": "Ravindar"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
